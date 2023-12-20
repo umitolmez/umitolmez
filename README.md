@@ -3,13 +3,51 @@
 
 - 💬 Ask me about **Selenium, Cucumber, Postman**
 
-- 📫 How to reach me **umitolmez455@gmail.com**
+# [Umıt Olmez]
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/umitolmez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="umitolmez" height="30" width="40" /></a>
-</p>
+## Test Automation Engineer
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
+👋 Hello, I'm Umit Olmez, a passionate Test Automation Engineer. Welcome to my GitHub profile! Here, you'll find a collection of projects, scripts, and tools related to test automation and quality assurance.
 
+### 🔧 Skills & Tools
+
+- **Programming Languages:** Java, Javascript
+- **Test Automation Frameworks:** Selenium, Cypress
+- **CI/CD:** Jenkins, Azure DevOps
+- **Testing Tools:** JUnit, TestNG, Cucumber, Rest Assured, 
+- **Version Control:** Git
+
+### 🛠️ Projects
+
+#### [Project Name 1]
+- Brief description of the project.
+- Technologies used.
+- Link to the project repository.
+
+#### [Project Name 2]
+- Brief description of the project.
+- Technologies used.
+- Link to the project repository.
+
+### 📚 Blog & Articles
+
+Check out my blog posts and articles related to test automation on [Medium/Dev.to/Your Blog].
+
+- [Title of Blog Post 1](Link)
+- [Title of Blog Post 2](Link)
+
+### 🌱 Learning
+
+I'm always learning and exploring new technologies. Currently, I'm focusing on:
+
+- [Current Learning Focus 1]
+- [Current Learning Focus 2]
+
+### 📫 Contact
+
+- LinkedIn: [Your LinkedIn Profile](Link)
+- Twitter: [@YourTwitterHandle](https://twitter.com/YourTwitterHandle)
+
+Feel free to explore my repositories and don't hesitate to reach out if you have any questions or suggestions!
+
+Happy coding! 🚀
