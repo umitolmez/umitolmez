@@ -3,7 +3,7 @@
 
 - 💬 Ask me about **Selenium, Cucumber, Postman**
 
-# [Umıt Olmez]
+# [Umit Olmez]
 
 ## Test Automation Engineer
 
@@ -14,7 +14,7 @@
 - **Programming Languages:** Java, Javascript
 - **Test Automation Frameworks:** Selenium, Cypress
 - **CI/CD:** Jenkins, Azure DevOps
-- **Testing Tools:** JUnit, TestNG, Cucumber, Rest Assured, 
+- **Testing Tools:** JUnit, TestNG, Cucumber, Rest Assured
 - **Version Control:** Git
 
 ### 🛠️ Projects
