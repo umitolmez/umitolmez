@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Umit Olmez</h1>
 <h3 align="center">A passionate QA Engineer</h3>
 
-- 💬 Ask me about **Selenium, Cucumber, Postman**
+- 💬 Ask me anything about **Selenium, Cucumber, Postman**
 
 # [Umit Olmez]
 
