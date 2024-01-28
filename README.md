@@ -17,36 +17,9 @@
 - **Testing Tools:** JUnit, TestNG, Cucumber, Rest Assured
 - **Version Control:** Git
 
-### 🛠️ Projects
-
-#### [Project Name 1]
-- Brief description of the project.
-- Technologies used.
-- Link to the project repository.
-
-#### [Project Name 2]
-- Brief description of the project.
-- Technologies used.
-- Link to the project repository.
-
-### 📚 Blog & Articles
-
-Check out my blog posts and articles related to test automation on [Medium/Dev.to/Your Blog].
-
-- [Title of Blog Post 1](Link)
-- [Title of Blog Post 2](Link)
-
-### 🌱 Learning
-
-I'm always learning and exploring new technologies. Currently, I'm focusing on:
-
-- [Current Learning Focus 1]
-- [Current Learning Focus 2]
-
 ### 📫 Contact
 
-- LinkedIn: [Your LinkedIn Profile](Link)
-- Twitter: [@YourTwitterHandle](https://twitter.com/YourTwitterHandle)
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/umitolmez/)
 
 Feel free to explore my repositories and don't hesitate to reach out if you have any questions or suggestions!
 
